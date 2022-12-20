@@ -1,0 +1,8 @@
+#include "Dialogs\define.hpp"
+#include "Dialogs\color.hpp"
+
+#include "Config\Config_vehicle.hpp" 
+
+class CfgFunctions {
+    #include "fonctionslist.hpp"
+};
