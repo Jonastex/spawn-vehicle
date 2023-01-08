@@ -1,4 +1,4 @@
-_class = param [0];
+private _class = param [0];
 
 createDialog "color";
 
